@@ -1,0 +1,7 @@
+{
+  "name": "services-ipau-problematicas",
+  "description": "Problematicas generales de ipau",
+  "repository": "https://github.com/fran893/services-ipau-problematicas",
+  "image": "heroku/java",
+  "addons": [ "heroku-mysql" ]
+}
